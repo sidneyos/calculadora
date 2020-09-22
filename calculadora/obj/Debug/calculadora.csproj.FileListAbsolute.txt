@@ -1,0 +1,20 @@
+C:\Users\Sydney\Documents\programaçao\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\Sydney\Documents\programaçao\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\Sydney\Documents\programaçao\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Sydney\Documents\programaçao\calculadora\calculadora\obj\Debug\calculadora.csprojAssemblyReference.cache
+C:\Users\Sydney\Documents\programaçao\calculadora\calculadora\obj\Debug\calculadora.calculadora.resources
+C:\Users\Sydney\Documents\programaçao\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\Sydney\Documents\programaçao\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.cache
+C:\Users\Sydney\Documents\programaçao\calculadora\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Sydney\Documents\programaçao\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\Sydney\Documents\programaçao\calculadora\calculadora\obj\Debug\calculadora.pdb
+C:\Users\Sydney\Documents\programaçao c#\C#\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\Sydney\Documents\programaçao c#\C#\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\Sydney\Documents\programaçao c#\C#\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Sydney\Documents\programaçao c#\C#\calculadora\calculadora\obj\Debug\calculadora.csprojAssemblyReference.cache
+C:\Users\Sydney\Documents\programaçao c#\C#\calculadora\calculadora\obj\Debug\calculadora.calculadora.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.cache
+C:\Users\Sydney\Documents\programaçao c#\C#\calculadora\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Sydney\Documents\programaçao c#\C#\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\Sydney\Documents\programaçao c#\C#\calculadora\calculadora\obj\Debug\calculadora.pdb
